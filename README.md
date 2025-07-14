@@ -48,4 +48,6 @@ This project demonstrates a simple and secure login interface using **Streamlit*
 ## 🚀 How to Run
 1. Make sure you have `streamlit` and `sqlalchemy` installed:
    ```bash
-   pip install streamlit sqlalchemy werkzeug
+   pip install streamlit sqlalchemy werkzeug 
+   streamlit run tela_login.py
+
